@@ -1,0 +1,19 @@
+.language-selector-wrapper {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 8px;
+  padding: 0 1.8rem;
+
+  & select {
+    padding: 0.5rem;
+    border-radius: 8px;
+    background-color: #ececec;
+    color: black;
+
+    & option {
+      background-color: #ececec;
+      color: black;
+      border-radius: 8px;
+    }
+  }
+}

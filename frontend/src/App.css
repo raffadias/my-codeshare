@@ -1,0 +1,11 @@
+#root {
+  margin: 0 auto;
+  width: 100%;
+}
+
+.title {
+  font-size: 0.5rem;
+  font-weight: bold;
+  padding: 1.8rem;
+  box-sizing: border-box;
+}

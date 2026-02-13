@@ -101,7 +101,7 @@ export function CodeEditor({ roomId }: { roomId: string }) {
         <span className="text-gray-400 text-sm px-4">Room: {roomId}</span>
       </div>
       <Editor
-        height="100vh"
+        height="80vh"
         width="100%"
         theme="vs-dark"
         defaultLanguage="typescript"

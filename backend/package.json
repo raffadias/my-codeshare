@@ -3,6 +3,10 @@
     "express": "^5.2.1",
     "socket.io": "^4.8.3"
   },
+  "scripts": {
+    "start": "node server.ts",
+    "build": "tsc"
+  },
   "devDependencies": {
     "@types/express": "^5.0.6",
     "@types/node": "^25.2.3",
